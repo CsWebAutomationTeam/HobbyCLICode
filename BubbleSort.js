@@ -1,5 +1,5 @@
 function bblSort(arr){
-    
+    console.log('Bubble Sort');
  for(var i = 0; i < arr.length; i++){
     
    // Last i elements are already in place 
